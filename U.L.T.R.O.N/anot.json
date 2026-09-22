@@ -1,0 +1,10 @@
+{
+    "assistente": {
+        "nome": "ULTRON",
+        "voz_taxa": 175
+    },
+    "localizacao": {
+        "cidade": "Parnaíba",
+        "temperatura_padrao": "27.3°C"
+    }
+}
